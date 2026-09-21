@@ -7,18 +7,10 @@ The implementation is built on [MotionBERT](https://github.com/Walter0807/Motion
 ## Repository scope
 
 Included:
-
 - pruning and sparsity experiment scripts;
 - the minimal MotionBERT model, data-loader, loss, and utility modules required by those scripts;
 - Human3.6M pose-estimation configuration files.
 
-Not included:
-
-- datasets;
-- pretrained weights or experiment checkpoints;
-- generated outputs and logs;
-- unrelated MotionBERT tasks such as action recognition, mesh recovery, and in-the-wild inference;
-- exploratory quantization code.
 
 ## Installation
 
